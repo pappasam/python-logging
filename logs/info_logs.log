@@ -1,0 +1,6 @@
+2015-09-28 23:35:20 - calculator - INFO - Adding 5 to 12
+2015-09-28 23:35:20 - calculator - INFO - Subtracting 10 from 11
+2015-09-28 23:35:20 - lexicon - WARNING - Be careful... words can hurt, especially 'excellence'
+2015-09-28 23:35:21 - lexicon - CRITICAL - Not sure I can take hearing 'nothing'
+2015-09-28 23:35:22 - __main__ - INFO - nice sentence: 'excellence' is my best word
+2015-09-28 23:35:22 - __main__ - INFO - bad sentence: I hate 'nothing'
